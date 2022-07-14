@@ -1,0 +1,42 @@
+$ mkdir projetoAlula
+
+$ cd projetoAlula/
+
+$ echo "# projotoAlura" >> README.md
+
+$ git init
+
+$ git add README.md
+
+$ ls
+README.md
+
+$ git add README.md
+
+
+$ git commit -m "CursoAlura"
+
+$ git branch -M main
+
+$ git remote add origin git@github.com:H3rl3s/JS.git
+
+
+$ git push -u origin main
+
+$ git remote add origin https://github.com/H3rl3s/JS.git
+
+
+$ git remote add origin git@github.com:H3rl3s/JS.git
+
+$ git remote set-url origin https://github.com/H3rl3s/JS.git
+
+
+$ git push -u origin main
+
+$ git push -u origin main
+
+$ git remote set-url origin https://github.com/H3rl3s/JS.git
+
+$ git push -u origin main -f
+
+$
