@@ -39,4 +39,8 @@ $ git remote set-url origin https://github.com/H3rl3s/JS.git
 
 $ git push -u origin main -f
 
-$
+Subir somente um arquivo
+
+git add nomeDoArquivo
+git commit -m  "mensagem"
+git push -u origin main -f
